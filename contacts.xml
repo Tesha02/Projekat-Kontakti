@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Djordje</first_name>
+	<last_name>Tesic</last_name>
+	<phone_number>1232432</phone_number>
+	<notes>ovo su moje beleske</notes>
+</contact>
+<contact>
+	<first_name>Petar</first_name>
+	<last_name>Tesic</last_name>
+	<phone_number>2423234</phone_number>
+	<notes>sutra moram da ucim</notes>
+</contact>
+</contacts>
